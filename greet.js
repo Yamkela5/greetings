@@ -6,8 +6,7 @@ var namesGreeted = {};
 for (var i = 0; i < namesGreeted.length; i++) {
 }
 
-
-function myName() {
+function myName(name) {
     'use strict';
 
     var Yash = document.getElementById('TextBox').value;
